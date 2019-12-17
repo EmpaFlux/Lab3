@@ -1,0 +1,7 @@
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\obj\Debug\Lab3 EmilPenson.csprojAssemblyReference.cache
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\obj\Debug\Lab3 EmilPenson.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\bin\Debug\Lab3 EmilPenson.exe.config
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\bin\Debug\Lab3 EmilPenson.exe
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\bin\Debug\Lab3 EmilPenson.pdb
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\obj\Debug\Lab3 EmilPenson.exe
+C:\Users\Emil\source\repos\Lab3 EmilPenson\Lab3 EmilPenson\obj\Debug\Lab3 EmilPenson.pdb
